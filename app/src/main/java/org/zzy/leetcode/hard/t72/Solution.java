@@ -63,10 +63,13 @@ public class Solution {
         for(int j=1;j<= world2Len ; j++){
             dp[j] = dp[j-1]+1;
         }
+        //用来保存左上角的值
         int preValue=0;
+        //用来保存过渡数据
         int temp = 0;
         for(int i=1;i<=world1Len;i++){
             preValue = dp[0];
+            //每一行的第0个数据是跟着行数不断递增的
             dp[0]=i;
             for (int j=1;j<=world2Len;j++){
                 if(word1.charAt(i-1) == word2.charAt(j-1)){
