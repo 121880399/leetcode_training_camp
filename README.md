@@ -13,6 +13,7 @@
  - [72.编辑距离](https://github.com/121880399/leetcode_training_camp/blob/master/app/src/main/java/org/zzy/leetcode/hard/t72/Solution.java)
  - [121.买卖股票的最佳时机](https://github.com/121880399/leetcode_training_camp/blob/master/app/src/main/java/org/zzy/leetcode/easy/t121/Solution.java)
  - [122.买卖股票的最佳时机II](https://github.com/121880399/leetcode_training_camp/blob/master/app/src/main/java/org/zzy/leetcode/easy/t122/Solution.java)
+ - [300.最长上升子序列](https://github.com/121880399/leetcode_training_camp/blob/master/app/src/main/java/org/zzy/leetcode/middle/t300/Solution.java)
 
 ### 解题分析
  - [53.最大子序和](https://github.com/121880399/leetcode_training_camp/blob/master/wiki/t53/README.md)
@@ -22,6 +23,7 @@
  - [72.编辑距离](https://github.com/121880399/leetcode_training_camp/blob/master/wiki/t72/README.md)
  - [121.买卖股票的最佳时机](https://github.com/121880399/leetcode_training_camp/blob/master/wiki/t121/README.md)
  - [122.买卖股票的最佳时机II](https://github.com/121880399/leetcode_training_camp/blob/master/wiki/t122/README.md)
+ - [300.最长上升子序列](https://github.com/121880399/leetcode_training_camp/blob/master/wiki/t300/README.md)
  
  
  
