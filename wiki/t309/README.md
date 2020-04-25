@@ -17,7 +17,7 @@
 
 #### 1.解题思路
 
-本题的解题思路还是使用状态机的方式，如果不了解状态机可以参考123题和188题。
+本题的解题思路还是使用状态机的方式，如果不了解状态机可以参考[123题](https://github.com/121880399/leetcode_training_camp/blob/master/wiki/t123/README.md)和[188题](https://github.com/121880399/leetcode_training_camp/blob/master/wiki/t188/README.md)。
 
 #### 2.定义
 
