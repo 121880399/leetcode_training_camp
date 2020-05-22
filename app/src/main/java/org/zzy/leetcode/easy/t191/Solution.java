@@ -65,5 +65,6 @@ public class Solution {
     public static void main(String [] args){
         System.out.println(other(24));
         System.out.println(hammingWeight(24));
+        System.out.println(Integer.bitCount(24));
     }
 }

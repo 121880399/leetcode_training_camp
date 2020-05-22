@@ -28,9 +28,10 @@ public class Solution {
        return dp[amount] > amount ? -1 : dp[amount];
     }
 
+
     public static void main(String [] args){
         Solution solution = new Solution();
-        int [] conins = new int[]{2};
-        System.out.println(solution.coinChange(conins,3));
+        int [] conins = new int[]{2,5};
+        System.out.println(solution.coinChange(conins,11));
     }
 }
