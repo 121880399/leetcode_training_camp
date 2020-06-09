@@ -6,6 +6,7 @@
  ![](https://img.shields.io/badge/language-java-orange.svg)
  
 ### 代码实现
+ - [6.从尾到头打印链表](https://github.com/121880399/leetcode_training_camp/blob/master/app/src/main/java/org/zzy/leetcode/easy/t6/Solution.java)
  - [42.接雨水](https://github.com/121880399/leetcode_training_camp/blob/master/app/src/main/java/org/zzy/leetcode/hard/t42/Solution.java)
  - [53.最大子序和](https://github.com/121880399/leetcode_training_camp/blob/master/app/src/main/java/org/zzy/leetcode/easy/t53/Solution.java)
  - [62.不同路径](https://github.com/121880399/leetcode_training_camp/blob/master/app/src/main/java/org/zzy/leetcode/middle/t62/Solution.java)
@@ -25,6 +26,7 @@
  - [714.买卖股票的最佳时机含手续费](https://github.com/121880399/leetcode_training_camp/blob/master/app/src/main/java/org/zzy/leetcode/middle/t714/Solution.java)
 
 ### 解题分析
+ - [6.从尾到头打印链表](https://github.com/121880399/leetcode_training_camp/blob/master/wiki/t6/README.md)
  - [42.接雨水](https://github.com/121880399/leetcode_training_camp/blob/master/wiki/t42/README.md)
  - [53.最大子序和](https://github.com/121880399/leetcode_training_camp/blob/master/wiki/t53/README.md)
  - [62.不同路径](https://github.com/121880399/leetcode_training_camp/blob/master/wiki/t62/README.md)
